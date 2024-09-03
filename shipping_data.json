@@ -1,0 +1,29 @@
+[
+    {
+    "Carrier": "EcoShip Logistics",
+    "Origin": "Los Angeles, CA",
+    "Destination": "Chicago, IL",
+    "Shipment Type": "Full Truckload",
+    "Weight Tons": 10,
+    "Volume Cubic Meters": 25,
+    "Carbon Emission Rate g per mile": 150,
+    "Fuel Efficiency miles per gallon": 15,
+    "Cost Per Mile USD": 2.75,
+    "Total Shipment Cost": 1375,
+    "Date of Shipment": "2023-10-05"
+  },
+  {
+    "Carrier": "GreenFreight",
+    "Origin": "New York, NY",
+    "Destination": "Dallas, TX",
+    "Shipment Type": "Less Than Truckload",
+    "Weight Tons": 5,
+    "Volume Cubic Meters": 12,
+    "Carbon Emission Rate g per mile": 120,
+    "Fuel Efficiency miles per gallon": 10,
+    "Cost Per Mile USD": 3.50,
+    "Total Shipment Cost": 1750,
+    "Date of Shipment": "2023-10-12"
+  }
+]
+    
